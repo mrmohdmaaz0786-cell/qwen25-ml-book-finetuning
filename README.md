@@ -56,3 +56,8 @@ python demo_before_after.py   # see before/after
 
 
 🔗 Live training notebook with GPU logs: [https://www.kaggle.com/code/mohdmaaz036/fine-tuning-1]
+
+## 📚 Dataset
+Place your own copy of `intro-to-ml.pdf` in this folder and run:
+python data_prep.py
+(The book is not included in this repo for copyright reasons.)
