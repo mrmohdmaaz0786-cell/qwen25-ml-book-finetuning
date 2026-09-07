@@ -55,7 +55,7 @@ python train.py               # train LoRA adapter
 python demo_before_after.py   # see before/after
 
 
-🔗 Live training notebook with GPU logs: [https://www.kaggle.com/code/mohdmaaz036/fine-tuning-1]
+🔗 Live training notebook with GPU logs: [https://www.kaggle.com/code/mohdmaaz036/notebookb678ace592]
 
 ## 📚 Dataset
 Place your own copy of `intro-to-ml.pdf` in this folder and run:
